@@ -17,4 +17,4 @@
 \
 <b>Результат выполнения задания:</b>\
 [Homework-3](https://github.com/JosieVi/Bug-Reports/blob/main/Homework-3.pdf)
-или [Google Диск](https://docs.google.com/spreadsheets/d/1MRWVmiH0OAUeyaXEkjZludw0q_QOo78_cI-TAtyx3ZQ/edit?usp=sharing)
+или [Google Диск](https://docs.google.com/spreadsheets/d/1MRWVmiH0OAUeyaXEkjZludw0q_QOo78_cI-TAtyx3ZQ/edit#gid=632564469)
